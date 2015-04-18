@@ -4,7 +4,7 @@ Login with a Microsoft Accounts (eg Hormail, Live.com etc, Outlook.com etc... )
 Basic package for OAuth2 with Microsoft... allows login with Hotmail, Live.com, Outlook.com accounts etc etc
 
 Configure with:
-
+```
 ServiceConfiguration.configurations.insert({
     service: "microsoft",
    
@@ -15,7 +15,7 @@ ServiceConfiguration.configurations.insert({
     scope:"wl.signin wl.basic wl.emails"
 
 });
-
+```
 Use in application with something like:
 
 ```
