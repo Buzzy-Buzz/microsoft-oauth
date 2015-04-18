@@ -3,7 +3,7 @@
 Very early DRAFT - not install and NOT on http://atmospherejs.com at this time.
 
 Login with a Microsoft Accounts (eg Hormail, Live.com etc, Outlook.com etc... )
-Thanks heaps to http://Sunsama.com folks for getting this off the ground
+Thanks heaps to http://Sunsama.com folks @khamoud and Jacob for getting this off the ground
 Also based off https://github.com/meteor/meteor/tree/devel/packages/facebook and other OAuth packages
 
 Basic package for OAuth2 with Microsoft... allows login with Hotmail, Live.com, Outlook.com accounts etc etc
